@@ -7,3 +7,7 @@ Week 2
 Readability.c - Implement a program that computes the approximate grade level needed to comprehend some text.<br>
 Caesar.c - Implement a program that encrypts messages using Caesar’s cipher.<br>
 Substitution.c - Implement a program that implements a substitution cipher.
+
+Week 3
+
+Plurality.c - Implement a program that runs a plurality election.<br>
