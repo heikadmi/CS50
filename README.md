@@ -12,3 +12,8 @@ Week 3
 
 Plurality.c - Implement a program that runs a plurality election.<br>
 Runoff.c - Implement a program that runs a runoff election.<br>
+
+Week 4
+
+lab4_wav (folder) - Program to modify the volume of a .WAV audio file.<br>
+filter (folder) - Implement a program that applies following filters to BMPs: reflect, blur, grayscale, sepia.<br> 
