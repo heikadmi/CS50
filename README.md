@@ -17,3 +17,4 @@ Week 4
 
 lab4_wav (folder) - Program to modify the volume of a .WAV audio file.<br>
 filter (folder) - Implement a program that applies following filters to BMPs: reflect, blur, grayscale, sepia.<br> 
+recover.c - Implement a program that recovers JPEGs from a forensic image. <br>
